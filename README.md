@@ -4,3 +4,4 @@ First Test Repository
 Copyright 2018 mnmike33. All Rights Reserved.
 
 Making a Bitcoin Miner
+But it probably won't work
